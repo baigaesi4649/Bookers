@@ -13,3 +13,50 @@
  *= require_tree .
  *= require_self
  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.top{
+  margin: 30px ;
+  font-size: 30px
+}
+
+.top2{
+  margin: 30px 65px;
+  font-size: 15px;
+}
+
+.indexbox{
+  margin: 30px;
+}
+
+.index {
+  display: block;
+}
+
+table td {
+ padding: 3px;
+}
+
+.newbook{
+  padding: 10px 0;
+}
+
+.Show{
+  margin: 33px 70px;
+}
+
+.Show1{
+  margin: 33px;
+}
+
+.editbox{
+  margin: 33px;
+}
+
+.editbody{
+  margin-top:10px;
+}
